@@ -1,0 +1,17 @@
+$light-bg: rgb(151, 151, 151);
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: $light-bg;
+
+}
+
+html {
+  font-size: 125%;
+  font-family: Arial, Helvetica, sans-serif;
+}
